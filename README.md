@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- Skills Widget -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+<!-- Languages Used Widget -->
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raking45)](https://github.com/anuraghazra/github-readme-stats) 
-<img src="https://github-profile-trophy.vercel.app/?username=Raking45&theme=juicyfresh&no-bg=true" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raking45&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
+<!-- GitHub Tropy Widget
+<img src="https://github-profile-trophy.vercel.app/?username=Raking45&theme=juicyfresh&no-bg=true" />-->
+<!-- Top Languages Widget
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raking45&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->

@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raking45)](https://github.com/anuraghazra/github-readme-stats) <img src="https://myreadme.vercel.app/api/embed/Raking45?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raking45)](https://github.com/anuraghazra/github-readme-stats) 
+<img src="https://github-profile-trophy.vercel.app/?username=Raking45&theme=juicyfresh&no-bg=true" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raking45&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->

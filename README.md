@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!-- Languages Used Widget -->
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raking45)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- Skills Languages Widget -->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,xml,json,postgresql,mysql,powershell,perl,sass)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,xml,json,postgresql,mysql,powershell,perl,sass&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 <!-- Frameworks Widget -->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,electron,bootstrap,tailwind,express,angular)](https://github.com/Jurredr/github-widgetbox)<br>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,electron,bootstrap,tailwind,express,angular)](https://github.com/Jurredr/github-widgetbox) 
 <!-- Libraries Widget -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow,jquery)](https://github.com/Jurredr/github-widgetbox)
 <!-- Skills Tools Widget -->

@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Languages Used Widget -->
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raking45&align="center")](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src=#
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raking45)](https://github.com/anuraghazra/github-readme-stats)>
 
 <!-- Skills Languages Widget -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,xml,json,postgresql,mysql,powershell,perl,sass&includeNames=true)](https://github.com/Jurredr/github-widgetbox)

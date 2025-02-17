@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- Skills Languages Widget -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,xml,json,postgresql,mysql,powershell,perl,sass)](https://github.com/Jurredr/github-widgetbox)
 <!-- Frameworks Widget -->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,electron,bootstrap,tailwind,express,angular)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,electron,bootstrap,tailwind,express,angular)](https://github.com/Jurredr/github-widgetbox)<br>
 <!-- Libraries Widget -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow,jquery)](https://github.com/Jurredr/github-widgetbox)
 <!-- Skills Tools Widget -->

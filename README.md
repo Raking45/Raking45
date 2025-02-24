@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert King</h1>
-<h3 align="center">A college student studying Web Development and Computer Information Systems in Mogantown, WV United States.</h3>
+<h3 align="center">A senior at Bellevue University who is studying Web Development and Computer Information Systems from Mogantown, WV, United States.</h3>
 
-- 🔭 I’m currently working on **Various projects.**
+- 🔭 I’m currently working on **Various Python, JavaScript, and Java projects.**
 
 - 🌱 I’m currently learning **RESTful API's, Express, Flask, and Django**
 

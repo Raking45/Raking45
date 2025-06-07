@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Senior at Bellevue University | Web Development & Computer Information Systems | Morgantown, WV 26505</b>
+  <b>🚀 Full-Stack Developer | Senior at Bellevue University | Open to Software Engineering Roles</b>
 </p>
 
 <p align="center">
@@ -14,11 +14,12 @@
 
 ---
 
-### 🚀 About Me
+### 👋 About Me
 
-- 🔭 Currently working on **WEB450 - MEAN Stack, Python, JavaScript, and Java projects**
+- 🔭 Currently working on **MEAN Stack, Python, JavaScript, and Java projects**
 - 🌱 Learning **Angular, RESTful APIs, Express, Flask, Django**
-- 💡 Passionate about building scalable web applications and exploring new technologies
+- 💡 Enjoy learning about and building scalable web applications and exploring new technologies
+- 🏆 Seeking full-time software engineering roles and internships
 - 🗂️ All my projects: [github.com/Raking45](https://github.com/Raking45)
 
 ---
@@ -82,6 +83,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raking45&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="48%"  />
 </p>
+
+---
+
+### 👀 What I’m Looking For
+
+- Full-time software engineering roles (backend/frontend/full-stack)
+- Internship opportunities in web development
+- Collaboration on open-source or innovative projects
 
 ---
 

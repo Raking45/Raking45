@@ -26,7 +26,7 @@
 ### 🛠️ Languages & Tools
 
 #### Languages
-<div style="background-color:#f5f5f5; color:#000; padding:10px; border-radius:8px; text-align:center;">
+<div style="background-color:#f5f5f5; color:#000; padding:10; border-radius:8; text-align:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="36"/>

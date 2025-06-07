@@ -63,8 +63,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raking45&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Robert's GitHub Stats" width="48%" height="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raking45&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="48%" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raking45&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="48%"  />
 </p>
 
 ---

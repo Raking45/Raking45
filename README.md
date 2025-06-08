@@ -19,7 +19,7 @@
 - 🔭 Currently working on **MEAN Stack, Python, JavaScript, and Java projects**
 - 🌱 Learning **Angular, RESTful APIs, Express, Flask, Django**
 - 💡 Enjoy learning about and building scalable web applications and exploring new technologies
-- 🏆 Seeking full-time software engineering roles and internships
+- 🏆 Seeking full-time web development roles and internships
 - 🗂️ All my projects: [github.com/Raking45](https://github.com/Raking45)
 
 ---
